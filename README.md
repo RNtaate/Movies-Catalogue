@@ -24,7 +24,7 @@
 
 ## 🔴 Live Demo
 
-- [Live Demo](https://norp-movies.netlify.app/)
+- [Live Demo](https://the-norp-movies.netlify.app/)
 
 ## Get started
 ### Prerequisites
